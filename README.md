@@ -1,3 +1,3 @@
 # AoC2019
-Advent of Code 2019
-Repository for my Advent of Code 2019 solutions. Doing some JavaScript and some R. I'm an expert at neither - doing this for the learning, but I'll keep trying until I get it right. So what you'll see is working code, though there may be better / easier ways of doing things in both R and JavaScript.
+Advent of Code 2019. 
+Repository for my Advent of Code 2019 solutions. Doing some JavaScript and some R (started first few days with JavaScript as I did last year's in JS, but then decided R would be an even steeper learning curve so switched by starting to redo from day 1 in R). I'm an expert at neither - doing this for the learning and enjoyment, but I'll keep trying until I get it right. So what you'll see is working code, though there may be better / easier ways of doing things in both R and JavaScript. I doubt I'll keep up doing all in both JS and R, but will try to at least complete everything in one of the two and will favour R.
