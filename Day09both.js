@@ -41,7 +41,6 @@ class intCode{
             }
         
             // console.log('INPUT i='+i+': inst:'+inst+'; p[i+1]: '+p[i+1]+'; p[i+2]: '+p[i+2]+'; pmode1='+pmode1+'; pmode2='+pmode2);
-        
             switch(opc){
                 case 1:
                     op=ip1+ip2;
@@ -95,7 +94,6 @@ class intCode{
                 this.done=true;
                 break;
             }
-            //if(opc==99||rout!=undefined){break;}
         }
         this.instruction=i+=inc;
         return rout;
